@@ -19,6 +19,10 @@
       "dom"
     ]
   },
+  "types": [
+    // ... your other types
+    "node"
+  ],
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
     "strictInjectionParameters": true

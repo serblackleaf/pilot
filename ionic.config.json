@@ -3,5 +3,9 @@
   "integrations": {
     "capacitor": {}
   },
+  "proxies": [{
+    "path": "https://rapidserved.com/login.php",
+    "proxyUrl": "https://rapidserved.com/"
+}],
   "type": "angular"
 }

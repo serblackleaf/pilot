@@ -175,4 +175,9 @@
   ion-title.title-large {
     --color: white;
   }
+
+  body.scanner-active {
+    --background: transparent;
+    --ion-background-color: transparent;
+  }
 }

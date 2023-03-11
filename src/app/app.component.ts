@@ -8,6 +8,7 @@ import { SplashScreen } from '@capacitor/splash-screen'
 export class AppComponent {
   constructor() {
     this.initializeApp();
+    
   }
 
   initializeApp() {
